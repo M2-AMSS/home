@@ -1,0 +1,58 @@
+/* Couleur de base */
+html[data-theme="light"] {
+    --pst-color-primary: rgb(173, 112, 255);
+    --pst-color-secondary: rgb(194, 255, 112);
+}
+
+html[data-theme="dark"] {
+    --pst-color-primary: rgb(173, 112, 255);
+    --pst-color-secondary: rgb(194, 255, 112);
+}
+
+.bg-light {
+    --bs-bg-opacity: 1;
+    background-color: rgb(173 112 255 / 30%) !important;
+}
+
+/* sidebar */
+html body aside.sidebar {
+    background-color: rgb(173 112 255 / 10%) !important;
+}
+
+/* color dropdown */
+html details.sd-dropdown summary.sd-card-header {
+    --sd-color-danger: rgb(173, 112, 255);
+    --sd-color-danger-bg: rgb(173 112 255 / 10%) !important;
+}
+
+html details.sd-dropdown summary.sd-card-header.sd-bg-danger+div.sd-summary-content {
+    --sd-color-danger: rgb(173 112 255 / 30%) !important;
+    --sd-color-danger-bg: rgb(173 112 255 / 10%) !important;
+}
+
+/* color dropdown IN2P*/
+html details.sd-dropdown summary.sd-card-header {
+    --sd-color-warning: rgb(130, 153, 247);
+    --sd-color-warning-bg: rgb(130 153 247 / 10%) !important;
+}
+
+html details.sd-dropdown summary.sd-card-header.sd-bg-warning+div.sd-summary-content {
+    --sd-color-warning: rgb(130 153 247 / 30%) !important;
+    --sd-color-warning-bg: rgb(130 153 247 / 10%) !important;
+}
+
+/* color dropdown CSC*/
+html details.sd-dropdown summary.sd-card-header {
+    --sd-color-info: rgb(255, 161, 35);
+    --sd-color-info-bg: rgb(255 161 35 / 10%) !important;
+}
+
+html details.sd-dropdown summary.sd-card-header.sd-bg-info+div.sd-summary-content {
+    --sd-color-info: rgb(255 161 35 / 30%) !important;
+    --sd-color-info-bg: rgb(255 161 35 / 10%) !important;
+}
+
+/* custom.css */
+.figcaption {
+    display: none;
+}

@@ -1,0 +1,18 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+# Top-level configuration
+format: jb-book
+
+# Table of contents
+root: content/1_index.md  # Default root in English
+
+# Language-specific entries
+chapters:
+  - file: content/1_lesson_AMSS.md
+  - file: content/1_experimental_plateform.md
+  - file: content/1_after_AMSS.md
+  
+#  - file: content/1_testimonies_AMSS.md
+#    sections:
+#    - file: content/2_Nom_Prenom.md

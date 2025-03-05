@@ -1,0 +1,46 @@
+#######################################################################################
+# A default configuration that will be loaded for all jupyter books
+# Users are expected to override these values in their own `_config.yml` file.
+# This is also the "master list" of all allowed keys and values.
+
+# Learn more at https://jupyterbook.org/customize/config.html
+
+#######################################################################################
+# Book settings
+
+title            : Parcours AMSS  # The title of the book 
+languages:
+  fr: "Français"
+author           : Kevin Godineau, ENS Paris-Saclay  # The author of the book
+copyright        : "2025"  # Copyright year to be placed in the footer
+logo             : content/img/image_titre.png  # A path to the book logo
+
+#######################################################################################
+# Page settings
+html:
+  favicon                   : content/img/favicon.png  # A path to a favicon image
+  home_page_in_navbar       : true  # Whether to include your home page in the left Navigation Bar
+  announcement              : "Site en cours de dévelopement" # A banner announcement at the top of the site.
+  extra_css:
+    - _static/custom.css
+
+exclude_patterns : [build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints", README.md]
+
+#######################################################################################
+# Launch button settings
+launch_buttons:
+  notebook_interface        : classic  # The interface interactive links will activate ["classic", "jupyterlab"]
+ 
+#######################################################################################
+# Theme settings
+
+sphinx:
+  config:
+    language: fr
+    numfig: false # ne marche pas
+
+jupyter_book:
+  extensions:
+    - toggles
+
+    

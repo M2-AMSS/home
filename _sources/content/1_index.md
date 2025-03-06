@@ -9,7 +9,7 @@ date: "20/03/2024"
 
 Le master AMSS (Advanced Manufacturing and Smart Systems) aussi nommé Industrie du Futur et Systèmes intelligents en français vise à former des ingénieurs et chercheurs spécialisés dans les thématiques liées à l’usine du futur. Grâce à de solides bases en mathématiques, vous développerez une capacité d’analyse approfondie, essentielle pour modéliser et simuler des procédés de fabrication ou des systèmes de production avancés. Ces compétences vous permettront d’aborder des concepts innovants comme les jumeaux numériques appliqués à l’industrie.
 
-```{image} img/bandeau_1_index_1.png
+```{image} img/bandeau_1_index_1_medium.jpg
 ```
 
 ## Programmes

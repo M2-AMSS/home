@@ -494,7 +494,7 @@ Elementary knowledge of calculus, matrix theory, probability and statistics.
 
 **Modalités d'organisation et de suivi :**
 
-<u>Coordinateur :</u> Bruno Denis
+<u>Coordinateur :</u> Gregory Faraut
 
 <u>Déroulement et organisation pratique :</u>
 
@@ -530,7 +530,7 @@ Connaissances de base sur la modélisation des Systèmes à Evénements Discrets
 
 **Modalités d'organisation et de suivi :**
 
-<u>Coordinateur :</u> Gregory Faraut
+<u>Coordinateur :</u> Bruno Denis
 
 <u>Déroulement et organisation pratique :</u>
 
@@ -547,14 +547,14 @@ L'évaluation de l'UE consiste en un examen écrit.
 
 L’objectif de ce cours est d’étudier différentes techniques permettant d’éliminer des fautes lors des phases de conception et de validation :
 
-- dans les modèles du système de commande : par simulation de modèles déterministes ou stochastiques (méthode de Monte-Carlo), ou par exploration exhaustive de l’espace d’états grâce au Model-Checking),
+- dans les modèles du système de commande : par simulation de modèles déterministes ou stochastiques (méthode de Monte-Carlo), ou par exploration exhaustive de l’espace d’états grâce au Model-Checking,
 - dans le programme de contrôle implémenté dans l’unité de commande (test de conformité).
 
 Les TD sont consacrés au traitement d’études de cas à l’aide de plateformes logicielles ou expérimentales adaptées.
 
 <u>Prérequis :</u>
 
-Connaissances de base sur la modélisation des Systèmes à Evéne-ments Discrets (UE « Modélisation comportementale des SED »).
+Connaissances de base sur la modélisation des Systèmes à Évènements Discrets (UE « Modélisation comportementale des SED »).
 
 ```
 
@@ -569,7 +569,7 @@ Connaissances de base sur la modélisation des Systèmes à Evéne-ments Discret
 
 <u>Déroulement et organisation pratique :</u>
 
-A la fin de l’UE, l’étudiant doit être capable de : 
+À la fin de l’UE, l’étudiant doit être capable de : 
 
 - Maîtriser la démarche de modélisation système,  
 - Prendre en compte au plus tôt les exigences de sûreté de fonctionnement en se basant sur le modèle système.

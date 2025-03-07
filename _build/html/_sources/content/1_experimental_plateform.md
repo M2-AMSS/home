@@ -21,12 +21,12 @@
 %- 5:50 : Mesure de microgéométrie, rugosité par variation de focale
 %- 6:08 : machine à mesurer tridimentionnelle + capteur laser plan
 
-```{figure} img/plateform_LURPA.jpg
+```{figure} img/plateform_LURPA.png
 :width: 100%
 :align: center
 :alt: Plateforme du LURPA, ENS Paris-Saclay
 
-Plateforme de Recherche du laboratoire LURPA, ENS Paris-Saclay
+Plateforme de Recherche du LURPA, ENS Paris-Saclay
 ```
 
 **Principaux équipements :**

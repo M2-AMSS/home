@@ -2,7 +2,7 @@
 
 % Ici vous trouverez les débouchés génériques après le master AMSS. Si vous souhaitez avoir quelques exemples n'hésitez pas à regarder la page [Ils/Elles ont fait le master AMSS](/content/1_testimonies_AMSS.md)
 
-## Les débouchés en France et à l’étranger après le parours AMSS
+## Les débouchés en France et à l’étranger après le parcours AMSS
 
 Les diplômés du master AMSS peuvent accéder à des postes à haute responsabilité dans des secteurs industriels divers, comme l’automobile, l’aéronautique, l’énergie, ou la fabrication de haute précision. Grâce à leur expertise en modélisation, simulation et optimisation des procédés de production, les étudiants et étudiantes diplômés du master AMSS peuvent travailler dans les entreprises pionnières de l’industrie du futur, notamment dans des postes de :
 

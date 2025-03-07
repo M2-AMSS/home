@@ -7,7 +7,7 @@ date: "20/03/2024"
 
 # Le master AMSS
 
-Le master AMSS (Advanced Manufacturing and Smart Systems) aussi nommé Industrie du Futur et Systèmes intelligents en français, vise à former des ingénieurs et chercheurs spécialisés dans les thématiques liées à l’usine du futur. Grâce à de solides bases en mathématiques, vous développerez une capacité d’analyse approfondie, essentielle pour modéliser et simuler des procédés de fabrication ou des systèmes de production avancés. Ces compétences vous permettront d’aborder des concepts innovants comme les jumeaux numériques appliqués à l’industrie.
+Le master AMSS (Advanced Manufacturing and Smart Systems) aussi nommé Industrie du Futur et Systèmes intelligents en français vise à former des ingénieurs et chercheurs spécialisés dans les thématiques liées à l’usine du futur. Grâce à de solides bases en mathématiques, vous développerez une capacité d’analyse approfondie, essentielle pour modéliser et simuler des procédés de fabrication ou des systèmes de production avancés. Ces compétences vous permettront d’aborder des concepts innovants comme les jumeaux numériques appliqués à l’industrie.
 
 ```{image} img/bandeau_1_index_1.png
 ```
@@ -36,7 +36,7 @@ Tronc commun obligatoire :
 
 :::::
 
-\+ 1 option au choix  parmis : IN2P (Ingénérie Numérique Produit Process) et CSC (Commande des Systèmes Critiques)
+\+ 1 option au choix  parmi : IN2P (Ingénérie Numérique Produit Process) et CSC (Commande des Systèmes Critiques)
 
 :::::{grid} 1 2 2 2 
 :gutter: 1
@@ -87,7 +87,7 @@ Un semestre 1 structuré en deux parties pour une montée en compétences progre
   - <u>Ingénierie Numérique Produit Process (IN2P) :</u> Plongez dans les procédés de fabrication métallique, qu’ils soient additifs ou soustractifs, et explorez les systèmes de mesure et de contrôle des pièces produites.
   - <u>Conception des Systèmes Complexes (CSC) :</u> Approfondissez les systèmes à événements discrets, la sûreté de fonctionnement et l’ingénierie système, pour concevoir et optimiser des solutions complexes.
 
-Le détails des enseignements est donnée dans la page suivante : [Les enseignements](/content/1_lesson_AMSS.md).
+Le détail des enseignements est donné dans la page suivante : [Les enseignements](/content/1_lesson_AMSS.md).
 
 ## Pourquoi rejoindre ce master ?
 
@@ -130,7 +130,7 @@ Pour intégrer ce M2, les candidats doivent :
 - Responsable du master : [Kevin Godineau : kevin.godineau@ens-paris-saclay.fr](mailto:kevin.godineau@ens-paris-saclay.fr)
 - Flyer du master AMSS : [Télécharger](/content/assets/Master2_ISC_AMSS_Univ-Paris-Saclay.pdf)
 
-## Laboratoires et Ecoles partenaires
+## Laboratoires et Écoles partenaires
 
 **Laboratoires de recherche :**
 
@@ -189,7 +189,7 @@ width: 150px
 
 :::::
 
-**Ecoles :**
+**Écoles :**
 
 - ENS Paris-Saclay
 - CentraleSupélec

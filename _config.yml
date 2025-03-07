@@ -20,7 +20,7 @@ logo             : content/img/image_titre.png  # A path to the book logo
 html:
   favicon                   : content/img/favicon.png  # A path to a favicon image
   home_page_in_navbar       : true  # Whether to include your home page in the left Navigation Bar
-  announcement              : "Site en cours de dévelopement" # A banner announcement at the top of the site.
+  announcement              : '<a href=https://www.universite-paris-saclay.fr/formation/master/ingenierie-des-systemes-complexes/m2-industrie-du-futur-et-systemes-intelligents#modalites target="_blank" style="color: #FFFFFF; text-decoration: underline;">📢 Candidater au master</a>' # A banner announcement at the top of the site.
   extra_css:
     - _static/custom.css
 

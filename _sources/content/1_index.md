@@ -9,7 +9,7 @@ date: "20/03/2024"
 
 Le master AMSS (Advanced Manufacturing and Smart Systems) aussi nommé Industrie du Futur et Systèmes intelligents en français vise à former des ingénieurs et chercheurs spécialisés dans les thématiques liées à l’usine du futur. Grâce à de solides bases en mathématiques, vous développerez une capacité d’analyse approfondie, essentielle pour modéliser et simuler des procédés de fabrication ou des systèmes de production avancés. Ces compétences vous permettront d’aborder des concepts innovants comme les jumeaux numériques appliqués à l’industrie.
 
-```{image} img/bandeau_1_index_1_medium.jpg
+```{image} img/bandeau_1_index_1.png
 ```
 
 ## Programmes
@@ -96,6 +96,7 @@ Cette formation vous prépare à répondre aux défis technologiques des industr
 ```{image} img/bandeau_1_index_2.png
 ```
 
+
 ## Compétences
 
 Ce master forme des spécialistes en modélisation, simulation et optimisation des procédés et systèmes de production de l’industrie du futur. Il développe des compétences en ingénierie et recherche pour répondre aux défis des technologies avancées.
@@ -137,6 +138,10 @@ Pour intégrer ce M2, les candidats doivent :
 - LGI : Laboratoire Génie Industriel
 - L2S : Laboratoire des Signaux et Systèmes
 - QUARTZ : Laboratoire QUARTZ
+%https://www.lgi.centralesupelec.fr/
+%https://l2s.centralesupelec.fr/
+%https://lurpa.ens-paris-saclay.fr/fr
+%https://www.quartz-lab.fr/
 
 :::::{grid} 2 3 4 5
 :gutter: 0
@@ -174,7 +179,7 @@ width: 150px
 
 ::::{grid-item}
 
-```{figure} /content/img/Logo_QUARTZ.png
+```{figure} /content/img/logo_QUARTZ.png
 ---
 width: 150px
 --- 
@@ -189,6 +194,9 @@ width: 150px
 - ENS Paris-Saclay
 - CentraleSupélec
 - IUT de Cachan
+%https://ens-paris-saclay.fr/
+%https://www.centralesupelec.fr/
+%https://www.iut-cachan.universite-paris-saclay.fr/
   
 :::::{grid} 2 3 4 5
 :gutter: 0

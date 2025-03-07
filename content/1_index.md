@@ -207,6 +207,7 @@ width: 150px
 ```{figure} /content/img/logo_ENS.png
 ---
 width: 150px
+target: https://ens-paris-saclay.fr/
 --- 
 ```
 

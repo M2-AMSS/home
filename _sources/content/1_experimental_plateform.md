@@ -21,7 +21,7 @@
 %- 5:50 : Mesure de microgéométrie, rugosité par variation de focale
 %- 6:08 : machine à mesurer tridimentionnelle + capteur laser plan
 
-```{figure} img/plateform_LURPA.png
+```{figure} img/plateform_LURPA.jpg
 :width: 100%
 :align: center
 :alt: Plateforme du LURPA, ENS Paris-Saclay
@@ -129,7 +129,7 @@ Plateforme de Recherche du LURPA, ENS Paris-Saclay
 
 ## Platerformes du Département Génie Mécanique de l'ENS Paris-Saclay
 
-```{figure} img/plateform_fabrication.png
+```{figure} img/plateform_fabrication.jpg
 :width: 100%
 :align: center
 :alt: Plateforme de Fabrication du DERGM, ENS Paris-Saclay
@@ -137,7 +137,7 @@ Plateforme de Recherche du LURPA, ENS Paris-Saclay
 Plateforme de Fabrication du département Génie Mécanique de l'ENS Paris-Saclay
 ```
 
-```{figure} img/plateform_automatique.png
+```{figure} img/plateform_automatique.jpg
 :width: 100%
 :align: center
 :alt: Plateforme d'Automatique du DERGM, ENS Paris-Saclay

@@ -4,7 +4,7 @@ Les enseignements sont effectuées en Français mais l'ensemble des support de c
 
 ## Tronc Commun
 
-```{image} img/bandeau_1_lesson_AMSS_1.png
+```{image} img/bandeau_1_lesson_AMSS_1.jpg
 ```
 
 Le tronc commun du M2 AMSS (Advanced Manufacturing and Smart Systems) offre une base pluridisciplinaire couvrant des compétences clés en ingénierie et en recherche. Il inclut des enseignements sur l’optimisation et l’apprentissage automatique (techniques d’optimisation, réseaux de neurones), le développement logiciel (programmation orientée objet, preuve de concepts), et la méthodologie de recherche (analyse bibliographique, rédaction scientifique). Les étudiants sont également formés en modélisation de systèmes multiphysiques, avec un focus sur les systèmes cyber-physiques et les jumeaux numériques et en anglais scientifique pour la communication internationale. Chaque module associe cours théoriques, travaux pratiques, et projets appliqués pour développer des compétences opérationnelles et transversales adaptées aux défis de l'industrie 4.0 et de la recherche avancée.
@@ -194,7 +194,7 @@ Basics of Production Systems Basics of Engineering Design Knowledge of System En
 
 ## Option IN2P
 
-```{image} img/bandeau_1_lesson_AMSS_2.png
+```{image} img/bandeau_1_lesson_AMSS_2.jpg
 ```
 
 L'option' IN2P offre une formation multidisciplinaire centrée sur les technologies avancées de fabrication et de contrôle. Il commence par la modélisation géométrique, essentielle pour prédire et comprendre l’impact des défauts sur les assemblages mécaniques, ainsi que par l’étude des normes ISO GPS. La fabrication avancée approfondit ensuite les phénomènes de coupe, les vibrations, et l’intégrité de surface, en les reliant aux défis industriels contemporains. Les compétences en fabrication assistée par ordinateur (CAM) couvrent les stratégies de trajectoires outils pour l’usinage et la fabrication additive, jusqu’à des approches optimisées pour les machines 3 et 5 axes. La numérisation géométrique par moyens optiques permet d’acquérir et de traiter des données 3D via des technologies telles que la projection de franges ou la stéréovision. Enfin, les étudiants explorent la modélisation et la commande des systèmes robotiques, en maîtrisant la cinématique, la dynamique et les techniques de contrôle avancées. Chaque module associe théorie, travaux pratiques et projets pour une approche intégrée et appliquée.
@@ -409,7 +409,7 @@ Materials: concept of plasticity Mechanics of continuous material.
 
 ## Option CSC
 
-```{image} img/bandeau_1_lesson_AMSS_3.png
+```{image} img/bandeau_1_lesson_AMSS_3.jpg
 ```
 
 L'option CSC se concentre sur les outils et méthodologies pour modéliser, analyser et garantir la fiabilité des systèmes complexes. Il débute avec l’étude des Systèmes à Événements Discrets (SED), qui permet de modéliser des systèmes dynamiques grâce à des formalismes comme les automates finis et les réseaux de Petri. Ces bases servent à approfondir des techniques de prévention et tolérance aux fautes, telles que la supervision, le diagnostic, et la reconfiguration des SED. Les étudiants apprennent également à éliminer les fautes via des simulations déterministes ou stochastiques (méthodes Monte-Carlo, Model-Checking) et des tests de conformité. Parallèlement des outils d’analyse des défaillances des systèmes et composants sont introduits. Enfin, l’ingénierie système basée sur les modèles (MBSE) fournit une approche structurée pour développer des systèmes critiques, en combinant SysML et des techniques comme les analyses FMEA et FTA. Ce master allie concepts théoriques et mises en pratique via des études de cas, pour former des ingénieurs et des chercheurs aptes à maîtriser la conception, la validation et la sûreté de fonctionnement.

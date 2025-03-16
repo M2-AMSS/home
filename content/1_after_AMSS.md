@@ -1,6 +1,6 @@
 # Débouchés
 
-% Ici vous trouverez les débouchés génériques après le master AMSS. Si vous souhaitez avoir quelques exemples n'hésitez pas à regarder la page [Ils/Elles ont fait le master AMSS](/content/1_testimonies_AMSS.md)
+% Ici vous trouverez les débouchés génériques après le master AMSS. Si vous souhaitez avoir quelques exemples, n'hésitez pas à regarder la page [Ils/Elles ont fait le master AMSS](/content/1_testimonies_AMSS.md)
 
 ## Les débouchés en France et à l’étranger après le parcours AMSS
 

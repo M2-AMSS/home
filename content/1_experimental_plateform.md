@@ -10,16 +10,16 @@
 %
 %**Principaux équipements :**
 %
-%- 0:55 : FormUp 350 - Machine d'impression 3D métalique LPBF
+%- 0:55 : FormUp 350 - Machine d'impression 3D métallique LPBF
 %- 1:50 : Banc d'essai sur la commande numérique en impression 3D LPBF
-%- 2:07 : FormUp 700 - Machine d'impression 3D métalique LPBF
-%- 2:40 : Machine d'assemblage Bosch didactique problématique de cybercécurité
+%- 2:07 : FormUp 700 - Machine d'impression 3D métallique LPBF
+%- 2:40 : Machine d'assemblage Bosch didactique problématique de cybersécurité
 %- 3:13 : Cobot Staublï pour la numérisation 3D de pièces
-%- 3:45 : Machine Schneider pour les travaux sur les systèmes dynamique hybride
-%- 4:16 : Machine de fabrication additive soustractive (impression 3D métalique robot + fil + laser et robot + broche d'usinage)
+%- 3:45 : Machine Schneider pour les travaux sur les systèmes dynamiques hybrides
+%- 4:16 : Machine de fabrication additive soustractive (impression 3D métallique robot + fil + laser et robot + broche d'usinage)
 %- 5:45 : Système de stéréovision
 %- 5:50 : Mesure de microgéométrie, rugosité par variation de focale
-%- 6:08 : machine à mesurer tridimentionnelle + capteur laser plan
+%- 6:08 : machine à mesurer tridimensionnelle + capteur laser plan
 
 ```{figure} img/plateform_LURPA.jpg
 :width: 100%
@@ -31,16 +31,16 @@ Plateforme de Recherche du LURPA, ENS Paris-Saclay
 
 **Principaux équipements :**
 
-- FormUp 350 - Machine d'impression 3D métalique LPBF
+- FormUp 350 - Machine d'impression 3D métallique LPBF
 - Banc d'essai sur la commande numérique en impression 3D LPBF
-- FormUp 700 - Machine d'impression 3D métalique LPBF
-- Machine d'assemblage Bosch didactique problématique de cybercécurité
+- FormUp 700 - Machine d'impression 3D métallique LPBF
+- Machine d'assemblage Bosch didactique problématique de cybersécurité
 - Cobot Staublï pour la numérisation 3D de pièces
-- Machine Schneider pour les travaux sur les systèmes dynamique hybride
-- Machine de fabrication additive soustractive (impression 3D métalique robot + fil + laser et robot + broche d'usinage)
+- Machine Schneider pour les travaux sur les systèmes dynamiques hybrides
+- Machine de fabrication additive soustractive (impression 3D métallique robot + fil + laser et robot + broche d'usinage)
 - Système de stéréovision
 - Mesure de microgéométrie, rugosité par variation de focale
-- Machine à mesurer tridimentionnelle + capteur laser plan
+- Machine à mesurer tridimensionnelle + capteur laser plan
 
 ::::{card-carousel} 3
 
@@ -127,7 +127,7 @@ Plateforme de Recherche du LURPA, ENS Paris-Saclay
 
 ::::
 
-## Platerformes du Département Génie Mécanique de l'ENS Paris-Saclay
+## Plateformes du Département Génie Mécanique de l'ENS Paris-Saclay
 
 ```{figure} img/plateform_fabrication.jpg
 :width: 100%
@@ -149,13 +149,13 @@ Plateforme d'Automatique du département Génie Mécanique de l'ENS Paris-Saclay
 
 - Robot UR10
 - Robot xArm6
-- Robot mitsubishi RV4FL
+- Robot Mitsubishi RV4FL
 - Machine d'Usinage grande vitesse 3 axes DMG Mori XXX
 - Machine d'Usinage 5 axe Mickron UCP 710
 - Centre d'usinage 3 axes
 - Centre de tournage 3 axes
 - Système didactique bras Comax
-- Système didactique symulateur de course de voiture
+- Système didactique simulateur de course de voiture
 
 ::::{card-carousel} 3
 
@@ -202,7 +202,7 @@ Plateforme d'Automatique du département Génie Mécanique de l'ENS Paris-Saclay
 :margin: 3
 :class-body: text-center
 :class-header: bg-light text-center
-**Robot mitsubishi RV4FL**
+**Robot Mitsubishi RV4FL**
 ^^^
 
 ```{image} img/mitsubishi.jpg

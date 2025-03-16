@@ -1,6 +1,6 @@
 # Les enseignements
 
-Les enseignements sont effectuées en Français mais l'ensemble des support de cours est en Anglais. Chacun des modules est détaillé dans les sections et sous-section suivantes. Les enseignements pratiques s'appuient sur les systèmes exérimentaux du LURPA ainsi que ceux du département Génie Mécanique de l'ENS Paris-Saclay [(Voire les plateformes expérimentales)](/content/1_experimental_plateform.md).
+Les enseignements sont effectués en Français, mais l'ensemble des supports de cours est en Anglais. Chacun des modules est détaillé dans les sections et sous-sections suivantes. Les enseignements pratiques s'appuient sur les systèmes expérimentaux du LURPA ainsi que ceux du département Génie Mécanique de l'ENS Paris-Saclay [(voir les plateformes expérimentales)](/content/1_experimental_plateform.md).
 
 ## Tronc Commun
 
@@ -20,7 +20,7 @@ Le tronc commun du M2 AMSS (Advanced Manufacturing and Smart Systems) offre une 
 
 <u>Déroulement et organisation pratique :</u>
 
-A la fin de l’UE, l’étudiant doit être capable de :
+À la fin de l’UE, l’étudiant doit être capable de :
 
 - Poser un problème d’optimisation et choisir et appliquer la technique la mieux adaptée pour résoudre ce problème ;
 - Choisir le type de base de données adapté à ses données suivant les paradigmes des types connus ;
@@ -32,14 +32,14 @@ L'évaluation de l'UE consiste en un examen écrit ainsi que la réalisation et 
 
 <u>Contenu :</u>
 
-Après l’apogée des technologies numériques au 20ème siècle, le début du 21ème siècle est caractérisé par l’immense quantité de données générées dans tous les domaines. Il est donc indispensable de disposer de méthodes permettant de classifier les données, d’en extraire des corrélations et des connaissances et de trouver des optimums de fonctionnement. L’objectif de ce module est d’introduire les concepts permettant de construire une base de données, de poser un problème et d’en chercher une solution optimale, et de comprendre les méthodes d’apprentissage permettant d’extraire des corrélations entre données. Pour ce faire, il sera étudié les thématiques suivantes :
+Après l’apogée des technologies numériques au 20e siècle, le début du 21e siècle est caractérisé par l’immense quantité de données générées dans tous les domaines. Il est donc indispensable de disposer de méthodes permettant de classifier les données, d’en extraire des corrélations et des connaissances et de trouver des optimums de fonctionnement. L’objectif de ce module est d’introduire les concepts permettant de construire une base de données, de poser un problème et d’en chercher une solution optimale, et de comprendre les méthodes d’apprentissage permettant d’extraire des corrélations entre données. Pour ce faire, il sera étudié les thématiques suivantes :
 
 - Techniques d’optimisation (linéaire, non-linéaire, nombre entier, heuristique, stochastique) ;
 - Théorie des graphes et théorie des jeux ;
 - Typologie des bases de données ;
 - Techniques d’apprentissage et réseaux de neurones.
 
-La part majeure des Travaux Pratiques est consacrée au traitement d’études de cas à l’aide de plateformes logicielles comportant des bibliothèques conçus pour l’optimisation et l’apprentissage.
+La part majeure des Travaux Pratiques est consacrée au traitement d’études de cas à l’aide de plateformes logicielles comportant des bibliothèques conçues pour l’optimisation et l’apprentissage.
 
 <u>Prérequis :</u>
 
@@ -58,11 +58,11 @@ Techniques de résolution des équations linéaires et des équations différent
 
 <u>Déroulement et organisation pratique :</u>
 
-A la fin de l’UE, l’étudiant doit être capable de :
+À la fin de l’UE, l’étudiant doit être capable de :
 
 - Structurer les données d’un logiciel,
 - Choisir l’architecture d’un module logiciel,
-- Evaluer l’efficacité des algorithmes mis en œuvre,
+- Évaluer l’efficacité des algorithmes mis en œuvre,
 - S’interfacer avec des logiciels tiers,
 - Spécifier et concevoir un module logiciel en utilisant la programmation orientée objet.
 
@@ -74,13 +74,13 @@ L'évaluation de l'UE consiste en la réalisation et la présentation d’un min
 
 En sciences appliquées, les outils informatiques sont omniprésents. Ils sont de plus en plus ouverts et peuvent être interfacés, à la condition de disposer d'un minimum de culture informatique. 
 
-Aujourd’hui, tout scientifique est amené à développer des maquettes logicielles lui permettant de valider les résultats de ses recherches au travers d'expérimentations numériques, d'exploiter des résultats numériques fournis par des logiciels spécifiques, d'interfacer différents logiciels dédiés, … 
+Aujourd’hui, tout scientifique est amené à développer des maquettes logicielles lui permettant de valider les résultats de ses recherches au travers d'expérimentations numériques, d'exploiter des résultats numériques fournis par des logiciels spécifiques, d'interfacer différents logiciels dédiés … 
 
-L'objectif de cette UE est d’initier les étudiants à quelques pratiques ciblées du génie logiciel, afin de les rendre opérationnels pour leurs développements futurs. Cette initiation se fera aux travers de la conduite d’un projet, consistant à développer un module logiciel en lien avec le contenu scientifique d’une des UE du master.
+L'objectif de cette UE est d’initier les étudiants à quelques pratiques ciblées du génie logiciel, afin de les rendre opérationnels pour leurs développements futurs. Cette initiation se fera au travers de la conduite d’un projet, consistant à développer un module logiciel en lien avec le contenu scientifique d’une des UE du master.
 
 <u>Prérequis :</u>
 
-Bases de la programmation Objet.
+Bases de la programmation-objet.
 
 ```
 
@@ -95,7 +95,7 @@ Bases de la programmation Objet.
 
 <u>Déroulement et organisation pratique :</u>
 
-A la fin de l’UE, l’étudiant doit être capable de : 
+À la fin de l’UE, l’étudiant doit être capable de : 
 
 - Conduire une analyse bibliographique sur un sujet nouveau, 
 - Structurer un article scientifique ou une présentation orale.
@@ -131,12 +131,12 @@ Aucun.
 
 <u>Déroulement et organisation pratique :</u>
 
-A la fin de l’UE, l’étudiant doit être capable de :
+À la fin de l’UE, l’étudiant doit être capable de :
 
 - Rédiger en anglais le résumé d’une communication ;
 - Prendre la parole dans le contexte d’une conférence.
 
-L'évaluation de l'UE est réalisé par contrôle continu (présentation orale, rédaction d’abstracts).
+L'évaluation de l'UE est réalisée par contrôle continu (présentation orale, rédaction d’abstracts).
 
 **Objectifs pédagogiques visés :**
 
@@ -153,7 +153,7 @@ Pratique de l’anglais niveau B2/C1.
 
 ```
 
-```{dropdown} Modélisation des systèmes multi physique (4 ECTS)
+```{dropdown} Modélisation des systèmes multiphysiques (4 ECTS)
 :color: danger
 
 **Volume horaire :** 16h de cours, 4h de TD, 8h de TP.
@@ -292,7 +292,7 @@ Basics in differential geometry and polynomial modeling of curves and surfaces K
 
 <u>Déroulement et organisation pratique :</u>
 
-A la fin de l’UE, l’étudiant doit être capable de :
+À la fin de l’UE, l’étudiant doit être capable de :
 
 The course lasts 8 consecutive weeks at half a day per week. Each session includes two hours of classes and two hours of tutorials or a practical work. The exam takes place in the last week.
 
@@ -412,7 +412,7 @@ Materials: concept of plasticity Mechanics of continuous material.
 ```{image} img/bandeau_1_lesson_AMSS_3.jpg
 ```
 
-L'option CSC se concentre sur les outils et méthodologies pour modéliser, analyser et garantir la fiabilité des systèmes complexes. Il débute avec l’étude des Systèmes à Événements Discrets (SED), qui permet de modéliser des systèmes dynamiques grâce à des formalismes comme les automates finis et les réseaux de Petri. Ces bases servent à approfondir des techniques de prévention et tolérance aux fautes, telles que la supervision, le diagnostic, et la reconfiguration des SED. Les étudiants apprennent également à éliminer les fautes via des simulations déterministes ou stochastiques (méthodes Monte-Carlo, Model-Checking) et des tests de conformité. Parallèlement des outils d’analyse des défaillances des systèmes et composants sont introduits. Enfin, l’ingénierie système basée sur les modèles (MBSE) fournit une approche structurée pour développer des systèmes critiques, en combinant SysML et des techniques comme les analyses FMEA et FTA. Ce master allie concepts théoriques et mises en pratique via des études de cas, pour former des ingénieurs et des chercheurs aptes à maîtriser la conception, la validation et la sûreté de fonctionnement.
+L'option CSC se concentre sur les outils et méthodologies pour modéliser, analyser et garantir la fiabilité des systèmes complexes. Il débute avec l’étude des Systèmes à Évènements Discrets (SED), qui permet de modéliser des systèmes dynamiques grâce à des formalismes comme les automates finis et les réseaux de Petri. Ces bases servent à approfondir des techniques de prévention et tolérance aux fautes, telles que la supervision, le diagnostic, et la reconfiguration des SED. Les étudiants apprennent également à éliminer les fautes via des simulations déterministes ou stochastiques (méthodes Monte-Carlo, Model-Checking) et des tests de conformité. Parallèlement des outils d’analyse des défaillances des systèmes et composants sont introduits. Enfin, l’ingénierie système basée sur les modèles (MBSE) fournit une approche structurée pour développer des systèmes critiques, en combinant SysML et des techniques comme les analyses FMEA et FTA. Ce master allie concepts théoriques et mises en pratique via des études de cas, pour former des ingénieurs et des chercheurs aptes à maîtriser la conception, la validation et la sûreté de fonctionnement.
 
 ```{dropdown} Modélisation comportementale des Systèmes à Evénements Discrets (3 ECTS)
 :color: info
@@ -425,7 +425,7 @@ L'option CSC se concentre sur les outils et méthodologies pour modéliser, anal
 
 <u>Déroulement et organisation pratique :</u>
 
-A la fin de l’UE, l’étudiant doit être capable de : 
+À la fin de l’UE, l’étudiant doit être capable de : 
 
 - Maîtriser la syntaxe et la sémantique des modèles étudiés, 
 - Modéliser des systèmes physiques à l’aide de ces modèles.
@@ -436,7 +436,7 @@ L'évaluation de l'UE consiste en un examen écrit.
 
 <u>Contenu :</u>
 
-Par opposition aux systèmes dynamiques dont l'évolution est continue dans le temps et peut être décrite par des équations différentielles, les Systèmes à Evénements Discrets (SED) sont des systèmes dynamiques dont l'évolution est provoquée par l’occurrence d’événements. Des théories et des modèles spécifiques à cette classe de systèmes dynamiques sont nécessaires pour les modéliser, analyser leurs performances et les commander. Ce cours est conçu comme un cours d’introduction aux notions fondamentales des SED. Après avoir présenté les concepts d’événements, d’espace d’états et d’évolution discrète, on étudie les principaux formalismes dédiés à l’étude des SED :
+Par opposition aux systèmes dynamiques dont l'évolution est continue dans le temps et peut être décrite par des équations différentielles, les Systèmes à Evénements Discrets (SED) sont des systèmes dynamiques dont l'évolution est provoquée par l’occurrence d’évènements. Des théories et des modèles spécifiques à cette classe de systèmes dynamiques sont nécessaires pour les modéliser, analyser leurs performances et les commander. Ce cours est conçu comme un cours d’introduction aux notions fondamentales des SED. Après avoir présenté les concepts d’évènements, d’espace d’états et d’évolution discrète, on étudie les principaux formalismes dédiés à l’étude des SED :
 
 - Théorie des langages et Automates Finis,
 - Réseaux de Petri (ordinaires, généralisés, temporisés, colorés),
@@ -467,7 +467,7 @@ In this course, we focus on the basic theories and applicational tools in reliab
 - to know how to use computer tools and software (e.g., Matlab) to help implement the theoretical methods in practice; 
 - to experience how to apply the theoretical methods to solve a real-world problem (through a course project).
 
-The evaluation of this module wil be based on a course project.
+The evaluation of this module will be based on a course project.
 
 **Objectifs pédagogiques visés :**
 
@@ -498,7 +498,7 @@ Elementary knowledge of calculus, matrix theory, probability and statistics.
 
 <u>Déroulement et organisation pratique :</u>
 
-A la fin de l’UE, l’étudiant doit être capable de : 
+À la fin de l’UE, l’étudiant doit être capable de : 
 
 - Maîtriser les concepts et méthodes de synthèse, de diagnostic et la reconfiguration des SED, 
 - Construire les modèles nécessaires à l’application de ces techniques sur des systèmes physiques.
@@ -534,7 +534,7 @@ Connaissances de base sur la modélisation des Systèmes à Evénements Discrets
 
 <u>Déroulement et organisation pratique :</u>
 
-A la fin de l’UE, l’étudiant doit être capable de : 
+À la fin de l’UE, l’étudiant doit être capable de : 
 
 - Mettre en œuvre des outils de simulation, de vérification et validation sur des modèles 
 - Mettre en œuvre des outils de test sur des composants de contrôle/commande

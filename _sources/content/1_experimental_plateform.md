@@ -51,7 +51,7 @@ Plateforme de Recherche du LURPA, ENS Paris-Saclay
 **Cellule hybride**
 ^^^
 
-```{image} img/cellule_hybride.png
+```{image} img/cellule_hybride.jpg
 :width: 100%
 ```
 
@@ -64,7 +64,7 @@ Plateforme de Recherche du LURPA, ENS Paris-Saclay
 **Poste Schneider**
 ^^^
 
-```{image} img/schneider.png
+```{image} img/schneider.jpg
 :width: 100%
 ```
 
@@ -77,7 +77,7 @@ Plateforme de Recherche du LURPA, ENS Paris-Saclay
 **FormUp 350**
 ^^^
 
-```{image} img/formup.png
+```{image} img/formup.jpg
 :width: 100%
 ```
 
@@ -90,7 +90,7 @@ Plateforme de Recherche du LURPA, ENS Paris-Saclay
 **Cobot Staubli**
 ^^^
 
-```{image} img/staubli.png
+```{image} img/staubli.jpg
 :width: 100%
 :alt: sdfsdf
 ```
@@ -104,7 +104,7 @@ Plateforme de Recherche du LURPA, ENS Paris-Saclay
 **MMT + Capteur laser**
 ^^^
 
-```{image} img/MMT.png
+```{image} img/MMT.jpg
 :width: 100%
 :alt: sdfsdf
 ```
@@ -118,7 +118,7 @@ Plateforme de Recherche du LURPA, ENS Paris-Saclay
 **Alicona**
 ^^^
 
-```{image} img/alicona.png
+```{image} img/alicona.jpg
 :width: 100%
 :alt: sdfsdf
 ```
@@ -166,7 +166,7 @@ Plateforme d'Automatique du département Génie Mécanique de l'ENS Paris-Saclay
 **Robot UR10**
 ^^^
 
-```{image} img/ur10.png
+```{image} img/ur10.jpg
 :width: 100%
 ```
 
@@ -179,7 +179,7 @@ Plateforme d'Automatique du département Génie Mécanique de l'ENS Paris-Saclay
 **Simulateur de course**
 ^^^
 
-```{image} img/simulateur.png
+```{image} img/simulateur.jpg
 :width: 100%
 ```
 
@@ -192,7 +192,7 @@ Plateforme d'Automatique du département Génie Mécanique de l'ENS Paris-Saclay
 **Mikron UCP710**
 ^^^
 
-```{image} img/mikron.png
+```{image} img/mikron.jpg
 :width: 100%
 ```
 
@@ -205,7 +205,7 @@ Plateforme d'Automatique du département Génie Mécanique de l'ENS Paris-Saclay
 **Robot mitsubishi RV4FL**
 ^^^
 
-```{image} img/mitsubishi.png
+```{image} img/mitsubishi.jpg
 :width: 100%
 ```
 
@@ -218,7 +218,7 @@ Plateforme d'Automatique du département Génie Mécanique de l'ENS Paris-Saclay
 **Bras didactique Comax**
 ^^^
 
-```{image} img/comax.png
+```{image} img/comax.jpg
 :width: 100%
 ```
 
@@ -231,7 +231,7 @@ Plateforme d'Automatique du département Génie Mécanique de l'ENS Paris-Saclay
 **Tour 3 axes Goodway**
 ^^^
 
-```{image} img/goodway.png
+```{image} img/goodway.jpg
 :width: 100%
 ```
 

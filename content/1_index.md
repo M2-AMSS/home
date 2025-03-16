@@ -9,7 +9,7 @@ date: "20/03/2024"
 
 Le master AMSS (Advanced Manufacturing and Smart Systems) aussi nommé Industrie du Futur et Systèmes intelligents en français vise à former des ingénieurs et chercheurs spécialisés dans les thématiques liées à l’usine du futur. Grâce à de solides bases en mathématiques, vous développerez une capacité d’analyse approfondie, essentielle pour modéliser et simuler des procédés de fabrication ou des systèmes de production avancés. Ces compétences vous permettront d’aborder des concepts innovants comme les jumeaux numériques appliqués à l’industrie.
 
-```{image} img/bandeau_1_index_1.png
+```{image} img/bandeau_1_index_1.jpg
 ```
 
 ## Programmes
@@ -93,7 +93,7 @@ Le détail des enseignements est donné dans la page suivante : [Les enseignemen
 
 Cette formation vous prépare à répondre aux défis technologiques des industries modernes en combinant innovation, rigueur scientifique et compétences techniques avancées. Elle constitue un tremplin idéal pour les étudiants souhaitant jouer un rôle clé dans l’évolution des systèmes de production et des procédés de fabrication.
 
-```{image} img/bandeau_1_index_2.png
+```{image} img/bandeau_1_index_2.jpg
 ```
 
 
@@ -152,6 +152,7 @@ Pour intégrer ce M2, les candidats doivent :
 ```{figure} /content/img/logo_LURPA.png
 ---
 width: 150px
+target: https://lurpa.ens-paris-saclay.fr
 --- 
 ```
 
@@ -162,6 +163,7 @@ width: 150px
 ```{figure} /content/img/logo_LGI.png
 ---
 width: 150px
+target: https://www.lgi.centralesupelec.fr/
 --- 
 ```
 
@@ -172,6 +174,7 @@ width: 150px
 ```{figure} /content/img/logo_L2S.png
 ---
 width: 150px
+target: https://l2s.centralesupelec.fr/
 --- 
 ```
 
@@ -182,6 +185,7 @@ width: 150px
 ```{figure} /content/img/logo_QUARTZ.png
 ---
 width: 150px
+target: https://www.quartz-lab.fr/
 --- 
 ```
 
@@ -218,6 +222,7 @@ target: https://ens-paris-saclay.fr/
 ```{figure} /content/img/logo_CS.png
 ---
 width: 150px
+target: https://www.centralesupelec.fr/
 --- 
 ```
 
@@ -228,6 +233,7 @@ width: 150px
 ```{figure} /content/img/logo_IUT.png
 ---
 width: 150px
+target: https://www.iut-cachan.universite-paris-saclay.fr/
 --- 
 ```
 

@@ -37,7 +37,7 @@ Plateforme de Recherche du LURPA, ENS Paris-Saclay
 - Machine d'assemblage Bosch didactique problématique de cybersécurité
 - Cobot Staublï pour la numérisation 3D de pièces
 - Machine Schneider pour les travaux sur les systèmes dynamiques hybrides
-- Machine de fabrication additive soustractive (impression 3D métallique robot + fil + laser et robot + broche d'usinage)
+- Cellule robotisée de fabrication additive soustractive (impression 3D métallique « Wire Laser Additive Manufacturing » portée par un robot et usinage à l’aide d’une broche sur un autre robot)
 - Système de stéréovision
 - Mesure de microgéométrie, rugosité par variation de focale
 - Machine à mesurer tridimensionnelle + capteur laser plan
@@ -127,22 +127,22 @@ Plateforme de Recherche du LURPA, ENS Paris-Saclay
 
 ::::
 
-## Plateformes du Département Génie Mécanique de l'ENS Paris-Saclay
+## Plateformes du DER Génie Mécanique de l'ENS Paris-Saclay
 
 ```{figure} img/plateform_fabrication.jpg
 :width: 100%
 :align: center
-:alt: Plateforme de Fabrication du DERGM, ENS Paris-Saclay
+:alt: Plateforme de Fabrication du DER GM, ENS Paris-Saclay
 
-Plateforme de Fabrication du département Génie Mécanique de l'ENS Paris-Saclay
+Plateforme de Fabrication du DER Génie Mécanique de l'ENS Paris-Saclay
 ```
 
 ```{figure} img/plateform_automatique.jpg
 :width: 100%
 :align: center
-:alt: Plateforme d'Automatique du DERGM, ENS Paris-Saclay
+:alt: Plateforme d'Automatique du DER GM, ENS Paris-Saclay
 
-Plateforme d'Automatique du département Génie Mécanique de l'ENS Paris-Saclay
+Plateforme d'Automatique du DER Génie Mécanique de l'ENS Paris-Saclay
 ```
 
 **Principaux équipements :**
@@ -150,9 +150,9 @@ Plateforme d'Automatique du département Génie Mécanique de l'ENS Paris-Saclay
 - Robot UR10
 - Robot xArm6
 - Robot Mitsubishi RV4FL
-- Machine d'Usinage grande vitesse 3 axes DMG Mori XXX
+- Machine d'Usinage grande vitesse 3 axes DMG Mori 75 V linear
 - Machine d'Usinage 5 axe Mickron UCP 710
-- Centre d'usinage 3 axes
+- Centre de fraisage 3 axes 
 - Centre de tournage 3 axes
 - Système didactique bras Comax
 - Système didactique simulateur de course de voiture

@@ -1,6 +1,6 @@
 # Les enseignements
 
-Les enseignements sont effectués en Français, mais l'ensemble des supports de cours est en Anglais. Chacun des modules est détaillé dans les sections et sous-sections suivantes. Les enseignements pratiques s'appuient sur les systèmes expérimentaux du LURPA ainsi que ceux du département Génie Mécanique de l'ENS Paris-Saclay [(voir les plateformes expérimentales)](/content/1_experimental_plateform.md).
+Les enseignements sont effectués en Français, mais l'ensemble des supports de cours est en Anglais. Chacun des modules est détaillé dans les sections et sous-sections suivantes. Les enseignements pratiques s'appuient sur les systèmes expérimentaux du LURPA ainsi que ceux du DER Génie Mécanique de l'ENS Paris-Saclay [(voir les plateformes expérimentales)](/content/1_experimental_plateform.md).
 
 ## Tronc Commun
 
@@ -197,7 +197,7 @@ Basics of Production Systems Basics of Engineering Design Knowledge of System En
 ```{image} img/bandeau_1_lesson_AMSS_2.jpg
 ```
 
-L'option' IN2P offre une formation multidisciplinaire centrée sur les technologies avancées de fabrication et de contrôle. Il commence par la modélisation géométrique, essentielle pour prédire et comprendre l’impact des défauts sur les assemblages mécaniques, ainsi que par l’étude des normes ISO GPS. La fabrication avancée approfondit ensuite les phénomènes de coupe, les vibrations, et l’intégrité de surface, en les reliant aux défis industriels contemporains. Les compétences en fabrication assistée par ordinateur (CAM) couvrent les stratégies de trajectoires outils pour l’usinage et la fabrication additive, jusqu’à des approches optimisées pour les machines 3 et 5 axes. La numérisation géométrique par moyens optiques permet d’acquérir et de traiter des données 3D via des technologies telles que la projection de franges ou la stéréovision. Enfin, les étudiants explorent la modélisation et la commande des systèmes robotiques, en maîtrisant la cinématique, la dynamique et les techniques de contrôle avancées. Chaque module associe théorie, travaux pratiques et projets pour une approche intégrée et appliquée.
+L'option' IN2P offre une formation multidisciplinaire centrée sur les technologies avancées de fabrication et de contrôle. Elle commence par la modélisation géométrique, essentielle pour prédire et comprendre l’impact des défauts sur les assemblages mécaniques, ainsi que par l’étude des normes ISO GPS. La fabrication avancée approfondit ensuite les phénomènes de coupe, les vibrations, et l’intégrité de surface, en les reliant aux défis industriels contemporains. Les compétences en fabrication assistée par ordinateur (CAM) couvrent les stratégies de trajectoires outils pour l’usinage et la fabrication additive, jusqu’à des approches optimisées pour les machines 3 et 5 axes. La numérisation géométrique par moyens optiques permet d’acquérir et de traiter des données 3D via des technologies telles que la projection de franges ou la stéréovision. Enfin, les étudiants explorent la modélisation et la commande des systèmes robotiques, en maîtrisant la cinématique, la dynamique et les techniques de contrôle avancées. Chaque module associe théorie, travaux pratiques et projets pour une approche intégrée et appliquée.
 
 ```{dropdown} Modélisation géométrique des assemblages et systèmes (3 ECTS)
 :color: warning
